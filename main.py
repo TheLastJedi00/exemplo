@@ -17,3 +17,6 @@ def pow(a, b):
 
 def rad(a):
     return sqrt(a)
+
+def hello():
+    return "Hello"
