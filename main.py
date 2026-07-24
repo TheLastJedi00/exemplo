@@ -14,3 +14,6 @@ def div(a, b):
 
 def pow(a, b):
     return pow(a,b)
+
+def rad(a):
+    return sqrt(a)
